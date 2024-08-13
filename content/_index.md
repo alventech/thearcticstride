@@ -1,6 +1,6 @@
 ---
-title: "Artic Stride"
+title: "Arctic Stride"
 draft: false
 ---
 
-[Visit Artic Stride on YouTube](https://www.youtube.com/@ArcticStride)
+[Visit Arctic Stride on YouTube](https://www.youtube.com/@ArcticStride)
